@@ -31,6 +31,7 @@ module Unter
       g.job_specs = false
       g.sytem_specs = false
       g.request_specs = false
+      g.helper_specs = false
     end
   end
 end
